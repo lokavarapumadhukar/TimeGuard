@@ -1,4 +1,4 @@
-# <span style="color:#007BFF;">Time Block</span>
+# <span style="color:#007BFF;">TimeGuard</span>
 
 This tool is designed to help manage social media addiction or limit access to any website that you find yourself visiting more frequently than desired. Inspired by the [SelfControl](https://selfcontrolapp.com) project, which blocks a URL for a certain period, this script takes a reverse approach: instead of blocking URLs, it temporarily allows access to certain websites for a predetermined amount of time.
 
