@@ -48,6 +48,11 @@ Navigate into the TimeBlock directory (the name of the project) and run the foll
 Note: The sudo command may be required for permissions to modify the hosts file, which is essential for the tool's functionality.
 
 
+
+
+
+
+
 4. **Potential Customizations**
 - You can add this script into the sudoers file so you do not need to type in your password every time.
 - You can add a functionality with a website's cookies so when you access sites it has recommendations for you and you do not need to login.
