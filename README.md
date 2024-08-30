@@ -27,7 +27,6 @@ To get started with the script, follow these steps:
 
    ```bash
    pip install -r requirements.txt
-## <span style="color:#007BFF;">Setup</span>
 
 To get started with the script, follow these steps:
 
