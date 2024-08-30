@@ -51,3 +51,10 @@ To get started with the script, follow these steps:
 - You can add this script into the sudoers file so you do not need to type in your password every time.
 - You can add a functionality with a website's cookies so when you access sites it has recommendations for you and you do not need to login.
 - Hope this is useful!
+
+
+
+https://github.com/user-attachments/assets/ecc6e4c7-38a5-4c16-9ba5-05992c691141
+
+
+
