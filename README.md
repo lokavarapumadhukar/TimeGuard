@@ -40,18 +40,12 @@ To get started with the script, follow these steps:
 
 3. **Run the Application**
 
-Navigate into the TimeBlock directory (the name of the project) and run the following command:
+   Navigate into the TimeBlock directory (the name of the project) and run the following command:
 
    ```bash
    sudo streamlit run main.py
 
-Note: The sudo command may be required for permissions to modify the hosts file, which is essential for the tool's functionality.
-
-
-
-
-
-
+   Note: The sudo command may be required for permissions to modify the hosts file, which is essential for the tool's functionality.
 
 4. **Potential Customizations**
 - You can add this script into the sudoers file so you do not need to type in your password every time.
