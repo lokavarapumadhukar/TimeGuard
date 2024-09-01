@@ -50,7 +50,8 @@ To get started with the script, follow these steps:
 4. **Potential Customizations**
 - You can add this script into the sudoers file so you do not need to type in your password every time.
 - You can add a functionality with a website's cookies so when you access sites it has recommendations for you and you do not need to login.
-- Hope this is useful!
+- You can add a max amount of time to unblock if you would like. 
+-  Hope this is useful!
 
 
 
