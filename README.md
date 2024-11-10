@@ -58,5 +58,5 @@ To get started with the script, follow these steps:
 https://github.com/user-attachments/assets/ecc6e4c7-38a5-4c16-9ba5-05992c691141
 
 5. **Common Errors**
-- The version of the driver is wrong, you can get the correct driver here: https://googlechromelabs.github.io/chrome-for-testing/
-
+- The version of the driver is wrong, you can get the correct driver here: https://googlechromelabs.github.io/chrome-for-testing/ ( make sure you select driver )
+- sudo xattr -rd com.apple.quarantine ( this is in case that you have a mac and that it doesn't trust the chrome driver)
